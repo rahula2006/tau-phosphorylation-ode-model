@@ -60,15 +60,5 @@ All three AD-like perturbations push the system toward a higher phosphorylated-t
 steady state than healthy baseline — qualitatively consistent with hyperphosphorylated
 tau accumulation in AD.
 
-## Next steps (Module 1b — optional upgrade)
-Right now the kinase/phosphatase Vmax values are guesses. You can make this
-*quantitatively grounded* by scaling each enzyme's Vmax by that gene's relative
-expression level in your own GSE5281 / GSE44770 / GSE33000 / GSE36980 data —
-this turns your existing omics analysis directly into model parameters, and is
-a genuinely novel contribution (static network → dynamic, data-informed model).
 
-## LinkedIn-postable framing
-"Built a systems biology model simulating how literature-documented enzyme changes
-in Alzheimer's (reduced PP2A, depleted PIN1, hyperactive GSK3B) shift tau toward a
-hyperphosphorylated steady state — turning a static kinase-phosphatase network map
-into a predictive dynamical model."
+
